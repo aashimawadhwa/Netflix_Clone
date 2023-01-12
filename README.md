@@ -4,4 +4,4 @@ This is the core code from scratch to clone the landing page of Netflix using **
 ## 📸 Screenshots
 
 
-## Watch the Live [Demo]()
+## Watch the Live [Demo](https://project120812.s3.amazonaws.com/index.html)
